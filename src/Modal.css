@@ -1,0 +1,25 @@
+.App {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 35px;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.ColImg:hover {
+  transform: scale(1.09);
+}
+
+.Header {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
+
+.Author {
+  text-align: center;
+}
+.Genre {
+  text-align: center;
+}
